@@ -1,0 +1,1914 @@
+
+2022/09/20 05:22:21 [32m/build/database/database.go:38
+[0m[33m[7.598ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:22:21 [32m/build/database/database.go:38
+[0m[33m[16.639ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:22 [32m/build/database/database.go:38
+[0m[33m[5.733ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:22 [32m/build/database/database.go:38
+[0m[33m[16.166ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:22 [32m/build/database/database.go:38
+[0m[33m[11.187ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:22 [32m/build/database/database.go:38
+[0m[33m[18.547ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:22 [32m/build/database/database.go:38
+[0m[33m[5.664ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:22 [32m/build/database/database.go:38
+[0m[33m[11.186ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:23 [32m/build/database/database.go:38
+[0m[33m[9.668ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:23 [32m/build/database/database.go:38
+[0m[33m[20.265ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:25 [32m/build/database/database.go:38
+[0m[33m[16.590ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:25 [32m/build/database/database.go:38
+[0m[33m[29.364ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:25 [32m/build/database/database.go:38
+[0m[33m[16.964ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:25 [32m/build/database/database.go:38
+[0m[33m[64.086ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:25 [32m/build/database/database.go:38
+[0m[33m[15.233ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:25 [32m/build/database/database.go:38
+[0m[33m[61.855ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:26 [32m/build/database/database.go:38
+[0m[33m[7.604ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:26 [32m/build/database/database.go:38
+[0m[33m[18.570ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:39 [32m/build/database/database.go:38
+[0m[33m[17.054ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:39 [32m/build/database/database.go:38
+[0m[33m[25.160ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:39 [32m/build/database/database.go:38
+[0m[33m[6.466ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:39 [32m/build/database/database.go:38
+[0m[33m[12.827ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:40 [32m/build/database/database.go:38
+[0m[33m[8.717ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:40 [32m/build/database/database.go:38
+[0m[33m[18.037ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:40 [32m/build/database/database.go:38
+[0m[33m[8.740ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:40 [32m/build/database/database.go:38
+[0m[33m[18.534ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:52 [32m/build/database/database.go:38
+[0m[33m[7.354ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:52 [32m/build/database/database.go:38
+[0m[33m[15.125ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:54 [32m/build/database/database.go:38
+[0m[33m[8.657ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:54 [32m/build/database/database.go:38
+[0m[33m[17.723ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:57 [32m/build/database/database.go:38
+[0m[33m[11.099ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:22:57 [32m/build/database/database.go:38
+[0m[33m[20.675ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:22:59 [32m/build/database/database.go:38
+[0m[33m[13.286ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:22:59 [32m/build/database/database.go:38
+[0m[33m[23.704ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:02 [32m/build/database/database.go:38
+[0m[33m[17.277ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:02 [32m/build/database/database.go:38
+[0m[33m[33.973ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:04 [32m/build/database/database.go:38
+[0m[33m[11.728ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:04 [32m/build/database/database.go:38
+[0m[33m[20.884ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:09 [32m/build/database/database.go:38
+[0m[33m[8.583ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:09 [32m/build/database/database.go:38
+[0m[33m[20.537ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:14 [32m/build/database/database.go:38
+[0m[33m[8.950ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:14 [32m/build/database/database.go:38
+[0m[33m[18.314ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:19 [32m/build/database/database.go:38
+[0m[33m[12.224ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:19 [32m/build/database/database.go:38
+[0m[33m[39.175ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[19.465ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[28.931ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[16.161ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[29.760ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[11.471ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[21.884ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[7.347ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:31 [32m/build/database/database.go:38
+[0m[33m[13.370ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:32 [32m/build/database/database.go:38
+[0m[33m[5.063ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:23:32 [32m/build/database/database.go:38
+[0m[33m[13.527ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:23:43 [32m/build/database/database.go:38
+[0m[33m[8.367ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:23:43 [32m/build/database/database.go:38
+[0m[33m[15.427ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:24:05 [32m/build/database/database.go:38
+[0m[33m[7.216ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:24:05 [32m/build/database/database.go:38
+[0m[33m[22.162ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:24:10 [32m/build/database/database.go:38
+[0m[33m[6.345ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:24:10 [32m/build/database/database.go:38
+[0m[33m[16.128ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:24:48 [32m/build/database/database.go:38
+[0m[33m[6.493ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:24:48 [32m/build/database/database.go:38
+[0m[33m[14.490ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:25:32 [32m/build/database/database.go:38
+[0m[33m[11.284ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:25:32 [32m/build/database/database.go:38
+[0m[33m[22.310ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:25:39 [32m/build/database/database.go:38
+[0m[33m[6.143ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:25:39 [32m/build/database/database.go:38
+[0m[33m[13.527ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:25:39 [32m/build/database/database.go:38
+[0m[33m[14.812ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:25:39 [32m/build/database/database.go:38
+[0m[33m[20.465ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:25:40 [32m/build/database/database.go:38
+[0m[33m[6.837ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:25:40 [32m/build/database/database.go:38
+[0m[33m[15.694ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:25:44 [32m/build/database/database.go:38
+[0m[33m[7.682ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:25:44 [32m/build/database/database.go:38
+[0m[33m[20.441ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:26:44 [32m/build/database/database.go:38
+[0m[33m[7.448ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:26:44 [32m/build/database/database.go:38
+[0m[33m[15.805ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:26:44 [32m/build/database/database.go:38
+[0m[33m[8.035ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:26:44 [32m/build/database/database.go:38
+[0m[33m[16.327ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:26:44 [32m/build/database/database.go:38
+[0m[33m[9.316ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:26:44 [32m/build/database/database.go:38
+[0m[33m[29.297ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:26:45 [32m/build/database/database.go:38
+[0m[33m[9.547ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:26:45 [32m/build/database/database.go:38
+[0m[33m[18.890ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:27:24 [32m/build/database/database.go:38
+[0m[33m[7.855ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:27:24 [32m/build/database/database.go:38
+[0m[33m[14.374ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:27:32 [32m/build/database/database.go:38
+[0m[33m[8.631ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:27:32 [32m/build/database/database.go:38
+[0m[33m[15.701ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:29:31 [32m/build/database/database.go:38
+[0m[33m[6.903ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:29:31 [32m/build/database/database.go:38
+[0m[33m[15.564ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:02 [32m/build/database/database.go:38
+[0m[33m[54.813ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 71880
+
+2022/09/20 05:30:02 [32m/build/database/database.go:38
+[0m[33m[95.426ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zFqmtv1Ht0JkKk_IuidAvXoec1TjCdZorOFDm6odleo=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:04 [32m/build/database/database.go:38
+[0m[33m[55.797ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:04 [32m/build/database/database.go:38
+[0m[33m[101.271ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:06 [32m/build/database/database.go:38
+[0m[33m[73.148ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:06 [32m/build/database/database.go:38
+[0m[33m[130.884ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:10 [32m/build/database/database.go:38
+[0m[33m[111.730ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:10 [32m/build/database/database.go:38
+[0m[33m[193.900ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:33 [32m/build/database/database.go:38
+[0m[33m[19.814ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:33 [32m/build/database/database.go:38
+[0m[33m[42.655ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:38 [32m/build/database/database.go:38
+[0m[33m[14.182ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:38 [32m/build/database/database.go:38
+[0m[33m[25.636ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:39 [32m/build/database/database.go:38
+[0m[33m[13.676ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:39 [32m/build/database/database.go:38
+[0m[33m[24.204ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:49 [32m/build/database/database.go:38
+[0m[33m[9.458ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:49 [32m/build/database/database.go:38
+[0m[33m[18.560ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:50 [32m/build/database/database.go:38
+[0m[33m[10.893ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:50 [32m/build/database/database.go:38
+[0m[33m[23.488ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:50 [32m/build/database/database.go:38
+[0m[33m[25.354ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:50 [32m/build/database/database.go:38
+[0m[33m[48.971ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:51 [32m/build/database/database.go:38
+[0m[33m[8.906ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:51 [32m/build/database/database.go:38
+[0m[33m[22.601ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:52 [32m/build/database/database.go:38
+[0m[33m[13.925ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:52 [32m/build/database/database.go:38
+[0m[33m[33.608ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:52 [32m/build/database/database.go:38
+[0m[33m[7.284ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:52 [32m/build/database/database.go:38
+[0m[33m[18.172ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:53 [32m/build/database/database.go:38
+[0m[33m[28.552ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:53 [32m/build/database/database.go:38
+[0m[33m[46.598ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:53 [32m/build/database/database.go:38
+[0m[33m[12.819ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:53 [32m/build/database/database.go:38
+[0m[33m[23.718ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:54 [32m/build/database/database.go:38
+[0m[33m[8.761ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:54 [32m/build/database/database.go:38
+[0m[33m[15.790ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:55 [32m/build/database/database.go:38
+[0m[33m[8.560ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:55 [32m/build/database/database.go:38
+[0m[33m[20.835ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:55 [32m/build/database/database.go:38
+[0m[33m[11.039ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:55 [32m/build/database/database.go:38
+[0m[33m[40.052ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:56 [32m/build/database/database.go:38
+[0m[33m[23.827ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:56 [32m/build/database/database.go:38
+[0m[33m[54.758ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:30:56 [32m/build/database/database.go:38
+[0m[33m[20.514ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:30:56 [32m/build/database/database.go:38
+[0m[33m[34.685ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[9.991ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 71880
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[18.598ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zFqmtv1Ht0JkKk_IuidAvXoec1TjCdZorOFDm6odleo=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[8.870ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 71880
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[18.780ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zFqmtv1Ht0JkKk_IuidAvXoec1TjCdZorOFDm6odleo=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[6.129ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 71880
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[13.527ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zFqmtv1Ht0JkKk_IuidAvXoec1TjCdZorOFDm6odleo=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[12.631ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 71880
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[18.260ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zFqmtv1Ht0JkKk_IuidAvXoec1TjCdZorOFDm6odleo=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[8.132ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:31:00 [32m/build/database/database.go:38
+[0m[33m[15.598ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:23 [32m/build/database/database.go:38
+[0m[33m[13.323ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:31:23 [32m/build/database/database.go:38
+[0m[33m[26.105ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:24 [32m/build/database/database.go:38
+[0m[33m[7.233ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 309907
+
+2022/09/20 05:31:24 [32m/build/database/database.go:38
+[0m[33m[15.672ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'v-vFaqCsHcHQdhY-W6A4RItUHWabhjMLdlhq8JzpjZU=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:40 [32m/build/database/database.go:38
+[0m[33m[10.059ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 309907
+
+2022/09/20 05:31:40 [32m/build/database/database.go:38
+[0m[33m[21.143ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'v-vFaqCsHcHQdhY-W6A4RItUHWabhjMLdlhq8JzpjZU=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:49 [32m/build/database/database.go:38
+[0m[33m[7.342ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:31:49 [32m/build/database/database.go:38
+[0m[33m[13.486ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:31:50 [32m/build/database/database.go:38
+[0m[33m[9.072ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:31:50 [32m/build/database/database.go:38
+[0m[33m[28.144ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:32:14 [32m/build/database/database.go:38
+[0m[33m[9.657ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:32:14 [32m/build/database/database.go:38
+[0m[33m[17.557ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:32:15 [32m/build/database/database.go:38
+[0m[33m[9.558ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:32:15 [32m/build/database/database.go:38
+[0m[33m[22.115ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:32:36 [32m/build/database/database.go:38
+[0m[33m[7.409ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 25703
+
+2022/09/20 05:32:36 [32m/build/database/database.go:38
+[0m[33m[15.424ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'fXUab9e3sum5DjM8dUlDIAzP_SjD4ziZNL-4O87Np7g=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:32:39 [32m/build/database/database.go:38
+[0m[33m[9.233ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:32:39 [32m/build/database/database.go:38
+[0m[33m[21.366ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:32:42 [32m/build/database/database.go:38
+[0m[33m[6.013ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:32:42 [32m/build/database/database.go:38
+[0m[33m[14.739ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:33:13 [32m/build/database/database.go:38
+[0m[33m[10.244ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:33:13 [32m/build/database/database.go:38
+[0m[33m[24.064ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:33:14 [32m/build/database/database.go:38
+[0m[33m[11.605ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:33:14 [32m/build/database/database.go:38
+[0m[33m[18.185ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:33:45 [32m/build/database/database.go:38
+[0m[33m[6.015ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:33:45 [32m/build/database/database.go:38
+[0m[33m[11.796ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:34:20 [32m/build/database/database.go:38
+[0m[33m[9.628ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:34:20 [32m/build/database/database.go:38
+[0m[33m[18.190ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:34:48 [32m/build/database/database.go:38
+[0m[33m[11.528ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:34:48 [32m/build/database/database.go:38
+[0m[33m[23.067ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:20 [32m/build/database/database.go:38
+[0m[33m[18.837ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:20 [32m/build/database/database.go:38
+[0m[33m[32.688ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:28 [32m/build/database/database.go:38
+[0m[33m[8.730ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:28 [32m/build/database/database.go:38
+[0m[33m[17.684ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:32 [32m/build/database/database.go:38
+[0m[33m[6.290ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:32 [32m/build/database/database.go:38
+[0m[33m[13.283ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:41 [32m/build/database/database.go:38
+[0m[33m[6.555ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:41 [32m/build/database/database.go:38
+[0m[33m[16.379ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:42 [32m/build/database/database.go:38
+[0m[33m[11.393ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:42 [32m/build/database/database.go:38
+[0m[33m[20.028ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:43 [32m/build/database/database.go:38
+[0m[33m[8.668ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:43 [32m/build/database/database.go:38
+[0m[33m[15.752ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:43 [32m/build/database/database.go:38
+[0m[33m[7.078ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:43 [32m/build/database/database.go:38
+[0m[33m[13.145ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:43 [32m/build/database/database.go:38
+[0m[33m[6.391ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:43 [32m/build/database/database.go:38
+[0m[33m[13.905ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:44 [32m/build/database/database.go:38
+[0m[33m[8.747ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:44 [32m/build/database/database.go:38
+[0m[33m[16.425ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:45 [32m/build/database/database.go:38
+[0m[33m[8.052ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:45 [32m/build/database/database.go:38
+[0m[33m[17.001ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:45 [32m/build/database/database.go:38
+[0m[33m[7.261ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:45 [32m/build/database/database.go:38
+[0m[33m[13.177ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:35:49 [32m/build/database/database.go:38
+[0m[33m[7.459ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:35:49 [32m/build/database/database.go:38
+[0m[33m[18.046ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:36:17 [32m/build/database/database.go:38
+[0m[33m[6.767ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:36:17 [32m/build/database/database.go:38
+[0m[33m[13.621ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:36:47 [32m/build/database/database.go:38
+[0m[33m[7.784ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:36:47 [32m/build/database/database.go:38
+[0m[33m[17.452ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:37:12 [32m/build/database/database.go:38
+[0m[33m[8.677ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:37:12 [32m/build/database/database.go:38
+[0m[33m[15.857ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:37:14 [32m/build/database/database.go:38
+[0m[33m[9.341ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:37:14 [32m/build/database/database.go:38
+[0m[33m[18.760ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:37:42 [32m/build/database/database.go:38
+[0m[33m[9.232ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:37:42 [32m/build/database/database.go:38
+[0m[33m[17.403ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:38:09 [32m/build/database/database.go:38
+[0m[33m[6.794ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:38:09 [32m/build/database/database.go:38
+[0m[33m[14.465ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:38:40 [32m/build/database/database.go:38
+[0m[33m[15.178ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:38:40 [32m/build/database/database.go:38
+[0m[33m[32.417ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:39:06 [32m/build/database/database.go:38
+[0m[33m[46.100ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:39:06 [32m/build/database/database.go:38
+[0m[33m[64.012ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:39:36 [32m/build/database/database.go:38
+[0m[33m[25.842ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:39:36 [32m/build/database/database.go:38
+[0m[33m[32.783ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:39:56 [32m/build/database/database.go:38
+[0m[33m[6.897ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:39:56 [32m/build/database/database.go:38
+[0m[33m[13.447ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:03 [32m/build/database/database.go:38
+[0m[33m[131.853ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:03 [32m/build/database/database.go:38 [33mSLOW SQL >= 200ms
+[0m[31;1m[229.854ms] [33m[rows:1][35m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1[0m
+
+2022/09/20 05:40:15 [32m/build/database/database.go:38
+[0m[33m[5.270ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 25703
+
+2022/09/20 05:40:15 [32m/build/database/database.go:38
+[0m[33m[11.548ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'fXUab9e3sum5DjM8dUlDIAzP_SjD4ziZNL-4O87Np7g=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:15 [32m/build/database/database.go:38
+[0m[33m[6.247ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 309907
+
+2022/09/20 05:40:15 [32m/build/database/database.go:38
+[0m[33m[12.665ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'v-vFaqCsHcHQdhY-W6A4RItUHWabhjMLdlhq8JzpjZU=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:17 [32m/build/database/database.go:38
+[0m[33m[8.099ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:17 [32m/build/database/database.go:38
+[0m[33m[14.222ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:28 [32m/build/database/database.go:38
+[0m[33m[6.378ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 309907
+
+2022/09/20 05:40:28 [32m/build/database/database.go:38
+[0m[33m[12.040ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'v-vFaqCsHcHQdhY-W6A4RItUHWabhjMLdlhq8JzpjZU=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:31 [32m/build/database/database.go:38
+[0m[33m[5.671ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:31 [32m/build/database/database.go:38
+[0m[33m[13.262ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:35 [32m/build/database/database.go:38
+[0m[33m[7.818ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:40:35 [32m/build/database/database.go:38
+[0m[33m[14.346ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:39 [32m/build/database/database.go:38
+[0m[33m[5.167ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:39 [32m/build/database/database.go:38
+[0m[33m[12.246ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:40 [32m/build/database/database.go:38
+[0m[33m[13.703ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:40 [32m/build/database/database.go:38
+[0m[33m[24.720ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:40 [32m/build/database/database.go:38
+[0m[33m[7.873ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:40 [32m/build/database/database.go:38
+[0m[33m[14.702ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:41 [32m/build/database/database.go:38
+[0m[33m[6.872ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:41 [32m/build/database/database.go:38
+[0m[33m[14.620ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:41 [32m/build/database/database.go:38
+[0m[33m[7.793ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:40:41 [32m/build/database/database.go:38
+[0m[33m[18.465ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:43 [32m/build/database/database.go:38
+[0m[33m[7.640ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:40:43 [32m/build/database/database.go:38
+[0m[33m[17.508ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:40:57 [32m/build/database/database.go:38
+[0m[33m[8.824ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:40:57 [32m/build/database/database.go:38
+[0m[33m[19.242ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:41:01 [32m/build/database/database.go:38
+[0m[33m[13.698ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 25703
+
+2022/09/20 05:41:01 [32m/build/database/database.go:38
+[0m[33m[30.213ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'fXUab9e3sum5DjM8dUlDIAzP_SjD4ziZNL-4O87Np7g=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:41:02 [32m/build/database/database.go:38
+[0m[33m[19.236ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 25703
+
+2022/09/20 05:41:02 [32m/build/database/database.go:38
+[0m[33m[49.528ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'fXUab9e3sum5DjM8dUlDIAzP_SjD4ziZNL-4O87Np7g=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:41:19 [32m/build/database/database.go:38
+[0m[33m[10.423ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:41:19 [32m/build/database/database.go:38
+[0m[33m[20.921ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:41:31 [32m/build/database/database.go:38
+[0m[33m[12.599ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:41:31 [32m/build/database/database.go:38
+[0m[33m[24.724ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:06 [32m/build/database/database.go:38
+[0m[33m[9.483ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:42:06 [32m/build/database/database.go:38
+[0m[33m[19.452ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:08 [32m/build/database/database.go:38
+[0m[33m[11.086ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:08 [32m/build/database/database.go:38
+[0m[33m[23.439ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:08 [32m/build/database/database.go:38
+[0m[33m[11.251ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:08 [32m/build/database/database.go:38
+[0m[33m[23.467ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:08 [32m/build/database/database.go:38
+[0m[33m[10.378ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:08 [32m/build/database/database.go:38
+[0m[33m[37.034ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:09 [32m/build/database/database.go:38
+[0m[33m[23.493ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:09 [32m/build/database/database.go:38
+[0m[33m[64.612ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:09 [32m/build/database/database.go:38
+[0m[33m[12.303ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:09 [32m/build/database/database.go:38
+[0m[33m[24.239ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:11 [32m/build/database/database.go:38
+[0m[33m[21.448ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:11 [32m/build/database/database.go:38
+[0m[33m[38.963ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:12 [32m/build/database/database.go:38
+[0m[33m[14.562ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:12 [32m/build/database/database.go:38
+[0m[33m[26.260ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[33.677ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[43.824ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[23.556ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[59.024ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[10.431ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[80.370ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[9.950ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:14 [32m/build/database/database.go:38
+[0m[33m[82.781ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:18 [32m/build/database/database.go:38
+[0m[33m[12.567ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:18 [32m/build/database/database.go:38
+[0m[33m[26.102ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:27 [32m/build/database/database.go:38
+[0m[33m[6.593ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:42:27 [32m/build/database/database.go:38
+[0m[33m[13.701ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:44 [32m/build/database/database.go:38
+[0m[33m[30.813ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:42:44 [32m/build/database/database.go:38
+[0m[33m[54.069ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:42:49 [32m/build/database/database.go:38
+[0m[33m[27.497ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:42:49 [32m/build/database/database.go:38
+[0m[33m[41.544ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:43:17 [32m/build/database/database.go:38
+[0m[33m[9.269ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:43:17 [32m/build/database/database.go:38
+[0m[33m[16.707ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:43:28 [32m/build/database/database.go:38
+[0m[33m[9.531ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:43:28 [32m/build/database/database.go:38
+[0m[33m[17.523ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:43:28 [32m/build/database/database.go:38
+[0m[33m[11.514ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 392722
+
+2022/09/20 05:43:28 [32m/build/database/database.go:38
+[0m[33m[19.765ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'zESCHVyKbzsaW1XLHU_k_G8lyHZ_VLPbCmrfXBNo5SI=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:44:14 [32m/build/database/database.go:38
+[0m[33m[6.470ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:44:14 [32m/build/database/database.go:38
+[0m[33m[13.583ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:44:40 [32m/build/database/database.go:38
+[0m[33m[5.946ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:44:40 [32m/build/database/database.go:38
+[0m[33m[12.243ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:45:05 [32m/build/database/database.go:38
+[0m[33m[21.395ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:45:05 [32m/build/database/database.go:38
+[0m[33m[73.243ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:45:32 [32m/build/database/database.go:38
+[0m[33m[9.988ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:45:32 [32m/build/database/database.go:38
+[0m[33m[22.139ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:45:58 [32m/build/database/database.go:38
+[0m[33m[8.068ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:45:58 [32m/build/database/database.go:38
+[0m[33m[15.709ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:46:26 [32m/build/database/database.go:38
+[0m[33m[7.297ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:46:26 [32m/build/database/database.go:38
+[0m[33m[14.630ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:46:33 [32m/build/database/database.go:38
+[0m[33m[10.473ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:46:33 [32m/build/database/database.go:38
+[0m[33m[21.177ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:46:53 [32m/build/database/database.go:38
+[0m[33m[20.209ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:46:53 [32m/build/database/database.go:38
+[0m[33m[45.793ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:47:13 [32m/build/database/database.go:38
+[0m[33m[12.787ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:47:13 [32m/build/database/database.go:38
+[0m[33m[21.410ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:47:18 [32m/build/database/database.go:38
+[0m[33m[6.345ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:47:18 [32m/build/database/database.go:38
+[0m[33m[15.013ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:47:21 [32m/build/database/database.go:38
+[0m[33m[10.322ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:47:21 [32m/build/database/database.go:38
+[0m[33m[22.721ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:47:42 [32m/build/database/database.go:38
+[0m[33m[7.065ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:47:42 [32m/build/database/database.go:38
+[0m[33m[14.919ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:47:47 [32m/build/database/database.go:38
+[0m[33m[10.685ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:47:47 [32m/build/database/database.go:38
+[0m[33m[24.632ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:48:08 [32m/build/database/database.go:38
+[0m[33m[9.870ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:48:08 [32m/build/database/database.go:38
+[0m[33m[18.233ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:48:34 [32m/build/database/database.go:38
+[0m[33m[11.628ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:48:34 [32m/build/database/database.go:38
+[0m[33m[21.792ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:48:59 [32m/build/database/database.go:38
+[0m[33m[11.486ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:48:59 [32m/build/database/database.go:38
+[0m[33m[23.184ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:49:23 [32m/build/database/database.go:38
+[0m[33m[6.386ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:49:23 [32m/build/database/database.go:38
+[0m[33m[15.952ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:49:47 [32m/build/database/database.go:38
+[0m[33m[11.171ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:49:47 [32m/build/database/database.go:38
+[0m[33m[20.109ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:11 [32m/build/database/database.go:38
+[0m[33m[7.399ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:11 [32m/build/database/database.go:38
+[0m[33m[17.043ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:18 [32m/build/database/database.go:38
+[0m[33m[7.067ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:50:18 [32m/build/database/database.go:38
+[0m[33m[7.748ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:50:18 [32m/build/database/database.go:38
+[0m[33m[13.134ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:18 [32m/build/database/database.go:38
+[0m[33m[14.351ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:18 [32m/build/database/database.go:38
+[0m[33m[7.824ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:50:18 [32m/build/database/database.go:38
+[0m[33m[29.748ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:19 [32m/build/database/database.go:38
+[0m[33m[11.074ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:50:19 [32m/build/database/database.go:38
+[0m[33m[45.501ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:20 [32m/build/database/database.go:38
+[0m[33m[11.845ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 369586
+
+2022/09/20 05:50:20 [32m/build/database/database.go:38
+[0m[33m[22.881ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'myNJTNPSucxGN_pgXeojELjcE7Yij6NrXUx_ZlVvkYw=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:38 [32m/build/database/database.go:38
+[0m[33m[10.167ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:38 [32m/build/database/database.go:38
+[0m[33m[29.672ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:40 [32m/build/database/database.go:38
+[0m[33m[5.982ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:40 [32m/build/database/database.go:38
+[0m[33m[13.106ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:40 [32m/build/database/database.go:38
+[0m[33m[7.101ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:40 [32m/build/database/database.go:38
+[0m[33m[14.562ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:41 [32m/build/database/database.go:38
+[0m[33m[11.158ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:41 [32m/build/database/database.go:38
+[0m[33m[23.949ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:41 [32m/build/database/database.go:38
+[0m[33m[6.540ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:41 [32m/build/database/database.go:38
+[0m[33m[15.065ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:42 [32m/build/database/database.go:38
+[0m[33m[9.783ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:42 [32m/build/database/database.go:38
+[0m[33m[18.119ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:50:47 [32m/build/database/database.go:38
+[0m[33m[12.908ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:50:47 [32m/build/database/database.go:38
+[0m[33m[25.221ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:51:04 [32m/build/database/database.go:38
+[0m[33m[13.983ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:51:04 [32m/build/database/database.go:38
+[0m[33m[32.455ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:51:31 [32m/build/database/database.go:38
+[0m[33m[5.625ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:51:31 [32m/build/database/database.go:38
+[0m[33m[12.872ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:51:39 [32m/build/database/database.go:38
+[0m[33m[7.917ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:51:39 [32m/build/database/database.go:38
+[0m[33m[17.004ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:51:54 [32m/build/database/database.go:38
+[0m[33m[13.074ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:51:54 [32m/build/database/database.go:38
+[0m[33m[27.858ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:52:22 [32m/build/database/database.go:38
+[0m[33m[26.284ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:52:22 [32m/build/database/database.go:38
+[0m[33m[43.922ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:52:51 [32m/build/database/database.go:38
+[0m[33m[18.915ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:52:51 [32m/build/database/database.go:38
+[0m[33m[37.139ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:53:20 [32m/build/database/database.go:38
+[0m[33m[6.719ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:53:20 [32m/build/database/database.go:38
+[0m[33m[16.869ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:53:50 [32m/build/database/database.go:38
+[0m[33m[11.781ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:53:50 [32m/build/database/database.go:38
+[0m[33m[21.166ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:54:14 [32m/build/database/database.go:38
+[0m[33m[9.997ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:54:14 [32m/build/database/database.go:38
+[0m[33m[18.964ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:54:36 [32m/build/database/database.go:38
+[0m[33m[9.479ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:54:36 [32m/build/database/database.go:38
+[0m[33m[17.653ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:54:39 [32m/build/database/database.go:38
+[0m[33m[7.560ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:54:39 [32m/build/database/database.go:38
+[0m[33m[15.477ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:54:41 [32m/build/database/database.go:38
+[0m[33m[7.664ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:54:41 [32m/build/database/database.go:38
+[0m[33m[17.751ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:08 [32m/build/database/database.go:38
+[0m[33m[11.269ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:08 [32m/build/database/database.go:38
+[0m[33m[27.960ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:29 [32m/build/database/database.go:38
+[0m[33m[7.456ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:29 [32m/build/database/database.go:38
+[0m[33m[16.446ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:33 [32m/build/database/database.go:38
+[0m[33m[9.817ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:33 [32m/build/database/database.go:38
+[0m[33m[17.491ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:43 [32m/build/database/database.go:38
+[0m[33m[10.729ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:43 [32m/build/database/database.go:38
+[0m[33m[23.819ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:44 [32m/build/database/database.go:38
+[0m[33m[7.132ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:44 [32m/build/database/database.go:38
+[0m[33m[13.601ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:44 [32m/build/database/database.go:38
+[0m[33m[7.726ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:44 [32m/build/database/database.go:38
+[0m[33m[20.530ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:45 [32m/build/database/database.go:38
+[0m[33m[7.541ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:45 [32m/build/database/database.go:38
+[0m[33m[13.445ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:45 [32m/build/database/database.go:38
+[0m[33m[12.877ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:45 [32m/build/database/database.go:38
+[0m[33m[32.134ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:46 [32m/build/database/database.go:38
+[0m[33m[9.925ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:46 [32m/build/database/database.go:38
+[0m[33m[17.122ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:46 [32m/build/database/database.go:38
+[0m[33m[20.554ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:46 [32m/build/database/database.go:38
+[0m[33m[31.934ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:47 [32m/build/database/database.go:38
+[0m[33m[11.225ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:47 [32m/build/database/database.go:38
+[0m[33m[17.654ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:48 [32m/build/database/database.go:38
+[0m[33m[12.115ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:48 [32m/build/database/database.go:38
+[0m[33m[20.161ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:55:48 [32m/build/database/database.go:38
+[0m[33m[11.314ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:55:48 [32m/build/database/database.go:38
+[0m[33m[24.373ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:56:03 [32m/build/database/database.go:38
+[0m[33m[7.192ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:56:03 [32m/build/database/database.go:38
+[0m[33m[14.096ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:56:28 [32m/build/database/database.go:38
+[0m[33m[13.994ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 384760
+
+2022/09/20 05:56:28 [32m/build/database/database.go:38
+[0m[33m[24.286ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'Uz5hyoQwqAemor86c9NjWL8wSSgoln41LoTxxwQVXuE=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:56:34 [32m/build/database/database.go:38
+[0m[33m[8.031ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:56:34 [32m/build/database/database.go:38
+[0m[33m[17.067ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:56:36 [32m/build/database/database.go:38
+[0m[33m[10.011ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:56:36 [32m/build/database/database.go:38
+[0m[33m[18.433ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:56:37 [32m/build/database/database.go:38
+[0m[33m[5.746ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:56:37 [32m/build/database/database.go:38
+[0m[33m[11.548ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:03 [32m/build/database/database.go:38
+[0m[33m[22.993ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:03 [32m/build/database/database.go:38
+[0m[33m[41.018ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:06 [32m/build/database/database.go:38
+[0m[33m[17.195ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:06 [32m/build/database/database.go:38
+[0m[33m[32.825ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:21 [32m/build/database/database.go:38
+[0m[33m[10.576ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:21 [32m/build/database/database.go:38
+[0m[33m[18.245ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:26 [32m/build/database/database.go:38
+[0m[33m[11.337ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:26 [32m/build/database/database.go:38
+[0m[33m[24.416ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:28 [32m/build/database/database.go:38
+[0m[33m[6.714ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:28 [32m/build/database/database.go:38
+[0m[33m[14.454ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:32 [32m/build/database/database.go:38
+[0m[33m[10.567ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 384760
+
+2022/09/20 05:57:32 [32m/build/database/database.go:38
+[0m[33m[16.446ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'Uz5hyoQwqAemor86c9NjWL8wSSgoln41LoTxxwQVXuE=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:35 [32m/build/database/database.go:38
+[0m[33m[10.536ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:35 [32m/build/database/database.go:38
+[0m[33m[21.075ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:37 [32m/build/database/database.go:38
+[0m[33m[10.904ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 05:57:37 [32m/build/database/database.go:38
+[0m[33m[19.872ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:57:53 [32m/build/database/database.go:38
+[0m[33m[5.802ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:57:53 [32m/build/database/database.go:38
+[0m[33m[15.514ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:58:21 [32m/build/database/database.go:38
+[0m[33m[5.983ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:58:21 [32m/build/database/database.go:38
+[0m[33m[12.638ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:58:48 [32m/build/database/database.go:38
+[0m[33m[4.226ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:58:48 [32m/build/database/database.go:38
+[0m[33m[11.113ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:59:04 [32m/build/database/database.go:38
+[0m[33m[15.610ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:59:04 [32m/build/database/database.go:38
+[0m[33m[44.151ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 05:59:16 [32m/build/database/database.go:38
+[0m[33m[15.503ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:59:16 [32m/build/database/database.go:38 [33mSLOW SQL >= 200ms
+[0m[31;1m[335.644ms] [33m[rows:1][35m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1[0m
+
+2022/09/20 05:59:40 [32m/build/database/database.go:38
+[0m[33m[11.829ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 05:59:40 [32m/build/database/database.go:38
+[0m[33m[18.978ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:08 [32m/build/database/database.go:38
+[0m[33m[20.135ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:08 [32m/build/database/database.go:38
+[0m[33m[48.327ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:18 [32m/build/database/database.go:38
+[0m[33m[5.034ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 261491
+
+2022/09/20 06:00:18 [32m/build/database/database.go:38
+[0m[33m[12.242ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = '3UXeKrURGo0aYkfHt0NbgXkT06kgrH9bGb0qMW8f05A=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:30 [32m/build/database/database.go:38
+[0m[33m[8.211ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:30 [32m/build/database/database.go:38
+[0m[33m[39.310ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:44 [32m/build/database/database.go:38
+[0m[33m[8.310ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:44 [32m/build/database/database.go:38
+[0m[33m[18.247ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:45 [32m/build/database/database.go:38
+[0m[33m[7.039ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:45 [32m/build/database/database.go:38
+[0m[33m[14.728ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:45 [32m/build/database/database.go:38
+[0m[33m[22.332ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:45 [32m/build/database/database.go:38
+[0m[33m[46.183ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:46 [32m/build/database/database.go:38
+[0m[33m[5.200ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:46 [32m/build/database/database.go:38
+[0m[33m[11.724ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:46 [32m/build/database/database.go:38
+[0m[33m[13.758ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:46 [32m/build/database/database.go:38
+[0m[33m[24.700ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:47 [32m/build/database/database.go:38
+[0m[33m[7.484ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:47 [32m/build/database/database.go:38
+[0m[33m[16.920ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:48 [32m/build/database/database.go:38
+[0m[33m[10.349ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:48 [32m/build/database/database.go:38
+[0m[33m[19.250ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:48 [32m/build/database/database.go:38
+[0m[33m[7.093ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:48 [32m/build/database/database.go:38
+[0m[33m[14.011ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:49 [32m/build/database/database.go:38
+[0m[33m[6.731ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:49 [32m/build/database/database.go:38
+[0m[33m[13.669ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:49 [32m/build/database/database.go:38
+[0m[33m[7.134ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:49 [32m/build/database/database.go:38
+[0m[33m[15.213ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:50 [32m/build/database/database.go:38
+[0m[33m[7.254ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:50 [32m/build/database/database.go:38
+[0m[33m[15.363ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:00:56 [32m/build/database/database.go:38
+[0m[33m[9.075ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:00:56 [32m/build/database/database.go:38
+[0m[33m[17.766ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:01:18 [32m/build/database/database.go:38
+[0m[33m[9.449ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:01:18 [32m/build/database/database.go:38
+[0m[33m[15.401ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:01:35 [32m/build/database/database.go:38
+[0m[33m[9.300ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:01:35 [32m/build/database/database.go:38
+[0m[33m[18.487ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:01:41 [32m/build/database/database.go:38
+[0m[33m[6.020ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:01:41 [32m/build/database/database.go:38
+[0m[33m[14.078ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:02:06 [32m/build/database/database.go:38
+[0m[33m[17.563ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:02:06 [32m/build/database/database.go:38
+[0m[33m[31.821ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:02:24 [32m/build/database/database.go:38
+[0m[33m[10.985ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:02:24 [32m/build/database/database.go:38
+[0m[33m[24.148ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:02:36 [32m/build/database/database.go:38
+[0m[33m[10.898ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:02:36 [32m/build/database/database.go:38
+[0m[33m[18.988ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:03:07 [32m/build/database/database.go:38
+[0m[33m[20.730ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:03:07 [32m/build/database/database.go:38
+[0m[33m[32.308ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:03:35 [32m/build/database/database.go:38
+[0m[33m[9.384ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:03:35 [32m/build/database/database.go:38
+[0m[33m[18.683ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:03:46 [32m/build/database/database.go:38
+[0m[33m[9.738ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:03:46 [32m/build/database/database.go:38
+[0m[33m[21.912ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:03:58 [32m/build/database/database.go:38
+[0m[33m[10.559ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:03:58 [32m/build/database/database.go:38
+[0m[33m[24.568ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:04:30 [32m/build/database/database.go:38
+[0m[33m[5.532ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:04:30 [32m/build/database/database.go:38
+[0m[33m[12.515ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:04:32 [32m/build/database/database.go:38
+[0m[33m[9.761ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:04:32 [32m/build/database/database.go:38
+[0m[33m[18.437ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:04:38 [32m/build/database/database.go:38
+[0m[33m[15.434ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 92350
+
+2022/09/20 06:04:38 [32m/build/database/database.go:38
+[0m[33m[25.632ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'dJ6pj02Rp3o7Bv3A3lIUrRphb9d_YXkkMyGSOj__vUk=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:04:40 [32m/build/database/database.go:38
+[0m[33m[8.288ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:04:40 [32m/build/database/database.go:38
+[0m[33m[18.800ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:04:45 [32m/build/database/database.go:38
+[0m[33m[8.986ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:04:45 [32m/build/database/database.go:38
+[0m[33m[15.113ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:04:58 [32m/build/database/database.go:38
+[0m[33m[10.519ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:04:58 [32m/build/database/database.go:38
+[0m[33m[20.844ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:02 [32m/build/database/database.go:38
+[0m[33m[19.089ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:02 [32m/build/database/database.go:38
+[0m[33m[36.758ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:10 [32m/build/database/database.go:38
+[0m[33m[106.348ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:10 [32m/build/database/database.go:38
+[0m[33m[120.388ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:17 [32m/build/database/database.go:38
+[0m[33m[6.216ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:17 [32m/build/database/database.go:38
+[0m[33m[13.182ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:26 [32m/build/database/database.go:38
+[0m[33m[7.984ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:26 [32m/build/database/database.go:38
+[0m[33m[14.544ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:44 [32m/build/database/database.go:38
+[0m[33m[9.131ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:44 [32m/build/database/database.go:38
+[0m[33m[21.249ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:49 [32m/build/database/database.go:38
+[0m[33m[17.884ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:49 [32m/build/database/database.go:38
+[0m[33m[32.842ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:49 [32m/build/database/database.go:38
+[0m[33m[6.272ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:49 [32m/build/database/database.go:38
+[0m[33m[15.059ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:50 [32m/build/database/database.go:38
+[0m[33m[11.007ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:50 [32m/build/database/database.go:38
+[0m[33m[17.426ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:50 [32m/build/database/database.go:38
+[0m[33m[8.054ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:50 [32m/build/database/database.go:38
+[0m[33m[15.877ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:51 [32m/build/database/database.go:38
+[0m[33m[13.323ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:51 [32m/build/database/database.go:38
+[0m[33m[24.683ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:51 [32m/build/database/database.go:38
+[0m[33m[10.669ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:51 [32m/build/database/database.go:38
+[0m[33m[21.881ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:52 [32m/build/database/database.go:38
+[0m[33m[13.335ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:52 [32m/build/database/database.go:38
+[0m[33m[25.449ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:52 [32m/build/database/database.go:38
+[0m[33m[7.517ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:52 [32m/build/database/database.go:38
+[0m[33m[16.249ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:53 [32m/build/database/database.go:38
+[0m[33m[8.892ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:53 [32m/build/database/database.go:38
+[0m[33m[25.178ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:54 [32m/build/database/database.go:38
+[0m[33m[9.763ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:54 [32m/build/database/database.go:38
+[0m[33m[19.603ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:54 [32m/build/database/database.go:38
+[0m[33m[10.661ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:54 [32m/build/database/database.go:38
+[0m[33m[16.746ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:55 [32m/build/database/database.go:38
+[0m[33m[7.611ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:55 [32m/build/database/database.go:38
+[0m[33m[15.519ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:55 [32m/build/database/database.go:38
+[0m[33m[9.088ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:55 [32m/build/database/database.go:38
+[0m[33m[17.122ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:56 [32m/build/database/database.go:38
+[0m[33m[7.635ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:56 [32m/build/database/database.go:38
+[0m[33m[14.438ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:56 [32m/build/database/database.go:38
+[0m[33m[7.165ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:56 [32m/build/database/database.go:38
+[0m[33m[14.536ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:57 [32m/build/database/database.go:38
+[0m[33m[12.640ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:57 [32m/build/database/database.go:38
+[0m[33m[23.927ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:57 [32m/build/database/database.go:38
+[0m[33m[14.149ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:57 [32m/build/database/database.go:38
+[0m[33m[28.067ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:58 [32m/build/database/database.go:38
+[0m[33m[12.199ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:58 [32m/build/database/database.go:38
+[0m[33m[31.563ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:59 [32m/build/database/database.go:38
+[0m[33m[9.761ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:59 [32m/build/database/database.go:38
+[0m[33m[21.534ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:05:59 [32m/build/database/database.go:38
+[0m[33m[8.600ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:05:59 [32m/build/database/database.go:38
+[0m[33m[17.431ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:06:22 [32m/build/database/database.go:38
+[0m[33m[9.310ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:06:22 [32m/build/database/database.go:38
+[0m[33m[18.073ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:06:33 [32m/build/database/database.go:38
+[0m[33m[12.422ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:06:33 [32m/build/database/database.go:38
+[0m[33m[26.544ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:06:50 [32m/build/database/database.go:38
+[0m[33m[5.668ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:06:50 [32m/build/database/database.go:38
+[0m[33m[12.844ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:07:17 [32m/build/database/database.go:38
+[0m[33m[11.275ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:07:17 [32m/build/database/database.go:38
+[0m[33m[19.657ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:07:37 [32m/build/database/database.go:38
+[0m[33m[19.085ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:07:37 [32m/build/database/database.go:38
+[0m[33m[40.816ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:07:42 [32m/build/database/database.go:38
+[0m[33m[17.995ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:07:42 [32m/build/database/database.go:38
+[0m[33m[32.124ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:07:47 [32m/build/database/database.go:38
+[0m[33m[16.548ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:07:47 [32m/build/database/database.go:38
+[0m[33m[30.384ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:08:16 [32m/build/database/database.go:38
+[0m[33m[14.305ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:08:16 [32m/build/database/database.go:38
+[0m[33m[23.870ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:08:17 [32m/build/database/database.go:38
+[0m[33m[9.342ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:08:17 [32m/build/database/database.go:38
+[0m[33m[17.068ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:08:51 [32m/build/database/database.go:38
+[0m[33m[7.327ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:08:51 [32m/build/database/database.go:38
+[0m[33m[16.995ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:09:31 [32m/build/database/database.go:38
+[0m[33m[14.835ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:09:31 [32m/build/database/database.go:38
+[0m[33m[27.439ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:00 [32m/build/database/database.go:38
+[0m[33m[10.511ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:00 [32m/build/database/database.go:38
+[0m[33m[19.480ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:09 [32m/build/database/database.go:38
+[0m[33m[13.007ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:09 [32m/build/database/database.go:38
+[0m[33m[20.825ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:12 [32m/build/database/database.go:38
+[0m[33m[8.341ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:12 [32m/build/database/database.go:38
+[0m[33m[16.912ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:22 [32m/build/database/database.go:38
+[0m[33m[10.604ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:22 [32m/build/database/database.go:38
+[0m[33m[17.928ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:40 [32m/build/database/database.go:38
+[0m[33m[7.300ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:40 [32m/build/database/database.go:38
+[0m[33m[14.154ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:48 [32m/build/database/database.go:38
+[0m[33m[11.767ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:48 [32m/build/database/database.go:38
+[0m[33m[21.461ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:48 [32m/build/database/database.go:38
+[0m[33m[8.716ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:48 [32m/build/database/database.go:38
+[0m[33m[17.043ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:49 [32m/build/database/database.go:38
+[0m[33m[10.195ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:49 [32m/build/database/database.go:38
+[0m[33m[24.269ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:49 [32m/build/database/database.go:38
+[0m[33m[8.017ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:49 [32m/build/database/database.go:38
+[0m[33m[15.681ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:50 [32m/build/database/database.go:38
+[0m[33m[14.574ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:50 [32m/build/database/database.go:38
+[0m[33m[31.027ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:51 [32m/build/database/database.go:38
+[0m[33m[19.131ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:51 [32m/build/database/database.go:38
+[0m[33m[31.000ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:51 [32m/build/database/database.go:38
+[0m[33m[8.550ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:51 [32m/build/database/database.go:38
+[0m[33m[18.987ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:52 [32m/build/database/database.go:38
+[0m[33m[6.684ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:52 [32m/build/database/database.go:38
+[0m[33m[18.387ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:52 [32m/build/database/database.go:38
+[0m[33m[9.661ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:52 [32m/build/database/database.go:38
+[0m[33m[22.450ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:53 [32m/build/database/database.go:38
+[0m[33m[14.648ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:53 [32m/build/database/database.go:38
+[0m[33m[27.624ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:53 [32m/build/database/database.go:38
+[0m[33m[7.790ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:53 [32m/build/database/database.go:38
+[0m[33m[31.704ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:54 [32m/build/database/database.go:38
+[0m[33m[14.393ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:54 [32m/build/database/database.go:38
+[0m[33m[24.965ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:10:54 [32m/build/database/database.go:38
+[0m[33m[16.604ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:10:54 [32m/build/database/database.go:38
+[0m[33m[32.439ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:13 [32m/build/database/database.go:38
+[0m[33m[18.510ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:13 [32m/build/database/database.go:38
+[0m[33m[31.165ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:20 [32m/build/database/database.go:38
+[0m[33m[17.548ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:20 [32m/build/database/database.go:38
+[0m[33m[34.603ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:20 [32m/build/database/database.go:38
+[0m[33m[7.150ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:20 [32m/build/database/database.go:38
+[0m[33m[16.924ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:20 [32m/build/database/database.go:38
+[0m[33m[11.226ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:20 [32m/build/database/database.go:38
+[0m[33m[19.835ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:21 [32m/build/database/database.go:38
+[0m[33m[13.069ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:21 [32m/build/database/database.go:38
+[0m[33m[29.782ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:22 [32m/build/database/database.go:38
+[0m[33m[19.557ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:22 [32m/build/database/database.go:38
+[0m[33m[36.038ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:22 [32m/build/database/database.go:38
+[0m[33m[15.169ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:22 [32m/build/database/database.go:38
+[0m[33m[30.976ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:23 [32m/build/database/database.go:38
+[0m[33m[11.855ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:23 [32m/build/database/database.go:38
+[0m[33m[23.526ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:30 [32m/build/database/database.go:38
+[0m[33m[10.439ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 384760
+
+2022/09/20 06:11:30 [32m/build/database/database.go:38
+[0m[33m[24.861ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'Uz5hyoQwqAemor86c9NjWL8wSSgoln41LoTxxwQVXuE=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:40 [32m/build/database/database.go:38
+[0m[33m[7.885ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:40 [32m/build/database/database.go:38
+[0m[33m[14.708ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:49 [32m/build/database/database.go:38
+[0m[33m[11.132ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:49 [32m/build/database/database.go:38
+[0m[33m[19.228ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:11:50 [32m/build/database/database.go:38
+[0m[33m[6.745ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:11:50 [32m/build/database/database.go:38
+[0m[33m[13.891ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:12:28 [32m/build/database/database.go:38
+[0m[33m[12.074ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:12:28 [32m/build/database/database.go:38
+[0m[33m[31.081ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:12:37 [32m/build/database/database.go:38
+[0m[33m[14.002ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:12:37 [32m/build/database/database.go:38
+[0m[33m[37.557ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:13:28 [32m/build/database/database.go:38
+[0m[33m[10.448ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:13:28 [32m/build/database/database.go:38
+[0m[33m[18.463ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:14:01 [32m/build/database/database.go:38
+[0m[33m[12.888ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:14:01 [32m/build/database/database.go:38
+[0m[33m[22.151ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1
+
+2022/09/20 06:14:42 [32m/build/database/database.go:38
+[0m[33m[11.337ms] [34;1m[rows:1][0m SELECT * FROM `user` WHERE `user`.`user_id` = 389857
+
+2022/09/20 06:14:42 [32m/build/database/database.go:38
+[0m[33m[20.980ms] [34;1m[rows:1][0m SELECT * FROM `api_keys` WHERE api_keys.key = 'VfkxDK3kzOmb0kSnLZgQWN8aZxcldrIH5GK1tIojHVs=' and revoked = 0 ORDER BY `api_keys`.`id` LIMIT 1

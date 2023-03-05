@@ -1,0 +1,19 @@
+develop_mode: true
+timezone : "Aisa/Tehran"
+database :
+  drivers:
+    mysql:
+      log: true # logs every database query
+      host: 127.0.0.1
+      port: 3308
+      username: admin
+      password: 1
+      db_name: database
+      ssl_mode: disable
+    redis:
+      host: 127.0.0.1
+      port: 3308
+      username: admin
+      db_name: 0
+      password: 1
+      ssl_mode": disable

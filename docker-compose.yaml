@@ -1,0 +1,50 @@
+version: "3.7"
+services:
+  grpc_server:
+    build:
+      context: ./authz_server
+    restart: always
+    networks:
+      - my_envoy
+    ports:
+    - "50051:50051"
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "5"
+        max-size: "100m"
+
+  front-envoy:
+    image: envoyproxy/envoy-alpine:v1.17-latest
+    volumes:
+      - ./envoy/envoy.yaml:/etc/envoy/envoy.yaml
+    restart: always
+    networks:
+      - my_envoy
+    ports:
+      - "8000:8000"
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "5"
+        max-size: "100m"
+
+  go_jaeger:
+    image: jaegertracing/all-in-one
+    environment:
+      - COLLECTOR_ZIPKIN_HOST_PORT=9411
+    restart: always
+    networks:
+      - my_envoy
+    ports:
+      - "9411:9411"
+      - "16686:16686"
+    logging:
+      driver: "json-file"
+      options:
+        max-file: "5"
+        max-size: "100m"
+
+networks:
+  my_envoy:
+    external: true
